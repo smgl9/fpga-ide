@@ -33,6 +33,6 @@ Open-source FPGA IDE
 - [enxor-logic-analyzer](https://github.com/lekgolo167/enxor-logic-analyzer) - FPGA Logic Analyzer and GUI
 - [gtkwave](https://github.com/gtkwave/gtkwave) - a fully featured GTK+ based wave viewer for Unix and Win32
 - [netlistsvg](https://github.com/nturley/netlistsvg) - draws an SVG schematic from a JSON netlist
-- [TerosHDL](https://github.com/TerosTechnology/terosHDL) - a powerful open source IDE
+- [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - a powerful open source IDE
 - [verilator](https://github.com/verilator/verilator) - open-source SystemVerilog simulator and lint system
 - [vunit](https://github.com/VUnit/vunit) - a unit testing framework for VHDL/SystemVerilog
